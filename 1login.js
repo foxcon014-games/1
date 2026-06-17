@@ -33,7 +33,7 @@ function retrieveIdToken(successCallback, errorCallback) {
 function anonymousLogin(successCallback, errorCallback) {
 	var resultObj = {
 		token: "",
-		displayName: "Vortex_User"
+		displayName: "guest"
 	};
 	console.log("Sending result to unity:");
 	console.log(resultObj);
