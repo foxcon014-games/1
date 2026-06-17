@@ -2,7 +2,7 @@
 "companyName": "JustPlay.LOL",
 "productName": "1v1.LOL",
 "productVersion": "2.700",
-"dataUrl": "https://cdn.jsdelivr.net/gh/foxcon014-games/1@main/2.7.data2.unityweb",
+"dataUrl": "https://cdn.jsdelivr.net/gh/foxcon014-games/1@main/2.7.data3.unityweb",
 "wasmCodeUrl": "https://cdn.jsdelivr.net/gh/foxcon014-games/1@main/2.7.wasm.code.unityweb",
 "wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/foxcon014-games/1@main/2.7.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
